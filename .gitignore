@@ -1,5 +1,6 @@
 
 mosquitto/data
 
+.env
 *.log
 *.txt
