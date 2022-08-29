@@ -12,8 +12,8 @@ This project has server mosquitto (MQTT) and client
 ```
     BROKER=
     PORT_BROKER=
-    USER=
-    PWD=
+    USER_MQTT=
+    PWD_MQTT=
     URLPOST_BACKEND=
 ```
 ## Installations

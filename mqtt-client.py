@@ -7,8 +7,8 @@ load_dotenv()
 
 HOST_DB = os.getenv('BROKER')
 PORT_BROKER = os.getenv('PORT_BROKER')
-USER = os.getenv('USER')
-PWD = os.getenv('PWD')
+USER = os.getenv('USER_MQTT')
+PWD = os.getenv('PWD_MQTT')
 URLPOST_BACKEND = os.getenv('URLPOST_BACKEND')
 
 broker = HOST_DB
